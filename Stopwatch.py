@@ -1,3 +1,6 @@
+#Mehtab Codes Presents 
+#Stopwatch using Python
+#pip install tkinter
 import tkinter as tk
 import time
 
